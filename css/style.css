@@ -1,0 +1,102 @@
+html{
+    background-color: white;
+    color: black;
+}
+
+body {
+    background-color: white;
+    padding: 0 2em;
+    font-family: "Roboto Slab";
+    font-size: 1.125 rem;
+}
+
+
+
+h1, h2, h3 {
+    font-family: sans-serif;
+    margin-bottom: 0;
+}
+
+p {
+    margin: .5em 0;
+    text-align: center;
+}
+
+h1{
+    color: rgb(128, 0, 0);
+    font-family: serif;
+    font-weight: bold;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+
+
+ }
+
+ h2{
+    
+    font-family: serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(128, 0, 0);
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+
+ }
+
+ h3{
+
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: black;
+    text-align: center;
+    padding-top: 2em;
+    text-shadow: 2px 2px grey;
+
+ }
+
+ h4{
+    text-align: center;
+    text-decoration: underline rgb(128, 0, 0);
+
+ }
+
+ a {
+    text-decoration: underline;
+    color:rgb(128, 0, 0);
+    text-align: center;
+    padding-left: 2em; 
+ }
+
+  nav li{
+ text-align: center;
+ display: inline-block;
+  }
+
+nav a{
+color: rgb(128, 0, 0);
+
+
+}
+
+img{
+
+}
+
+.center{
+    text-align: center;
+
+}
+
+.navigation a {
+
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+
